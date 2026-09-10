@@ -13,6 +13,7 @@ Use this skill for FY27 Frontier partner work involving PMX, marketplace, MPL pa
 - Do not use general Microsoft 365 search as the primary source for PMX or marketplace facts unless the user explicitly asks for email/Teams/calendar context.
 - When the user provides reports, decks, spreadsheets, screenshots, or documents for Frontier partner work, treat those reports as important source material and incorporate their content into analysis, naming proposals, PMX updates, marketplace recommendations, and status summaries.
 - If report content conflicts with PMX/Partner-IQ data, surface the conflict and ask before writing changes.
+- For reusable PMX workflow rules, defaults, checklists, option mappings, and project/task hygiene guidance, update this skill rather than relying only on personal memory. Memory can capture user-specific context, but exportable PMX process knowledge belongs in the skill.
 
 ## PMX write safety
 
